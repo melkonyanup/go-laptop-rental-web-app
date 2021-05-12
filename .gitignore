@@ -1,0 +1,7 @@
+.vscode/
+.DS_Store
+coverage.out
+app
+database.yml
+soda_command.txt
+go.sum
